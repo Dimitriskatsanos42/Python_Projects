@@ -4,7 +4,7 @@ import tkinter.scrolledtext as scrolledtext
 
 
 root = Tk()
-root.title("On Screen Keyboard")
+root.title(" Keyboard")
 root.resizable(0,0)
 
 def select(value):
