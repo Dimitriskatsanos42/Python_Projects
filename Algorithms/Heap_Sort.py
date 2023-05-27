@@ -30,7 +30,6 @@ def heapSort(arr):
         arr[i], arr[0] = arr[0], arr[i]  # Ανταλλαγή του πρώτου και τελευταίου στοιχείου
         heapify(arr, i, 0)
 
-# Παράδειγμα χρήσης
 data = [12, 45, 2, 9, 25, 15, 10,  32, 63, 78, 81]
 heapSort(data)
 print(data)
