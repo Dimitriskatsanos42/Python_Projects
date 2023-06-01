@@ -1,4 +1,4 @@
-#Python program for implementation of Radix Sor
+#Python program for implementation of Radix Sort
 def countingSort(arr, exp):
     n = len(arr)
 
