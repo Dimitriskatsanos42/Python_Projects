@@ -3,7 +3,7 @@ def dfs(graph, start, visited=None):
         visited = set()
     
     visited.add(start)
-    print(start)  # Εκτύπωση του κόμβου (ή κάνε άλλη επεξεργασία)
+    print(start)  
 
     neighbors = graph[start]
     for neighbor in neighbors:
