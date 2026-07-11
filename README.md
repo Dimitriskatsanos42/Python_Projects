@@ -54,4 +54,3 @@ pip install <όνομα_βιβλιοθήκης>
 
 ---
 
-**Δημήτρης Κατσάνος** · [@Dimitriskatsanos42](https://github.com/Dimitriskatsanos42)
